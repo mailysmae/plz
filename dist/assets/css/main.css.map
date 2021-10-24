@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAAA,KACE,6BAAA,CAAA,qBAAA,CACA,cAAA,CACA,uBAAA,CAGF,mBACE,0BAAA,CAAA,kBAAA","file":"main.css","sourcesContent":["html {\r\n  box-sizing: border-box;\r\n  font-size: 16px;\r\n  background-color: violet;\r\n}\r\n\r\n*, *:before, *:after {\r\n  box-sizing: inherit;\r\n}"]}
